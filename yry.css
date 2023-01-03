@@ -1,42 +1,12 @@
+.page {
+  position: relative;
+  height: 99vh;
+  width: 99%;
 
-.yryry {
-    font-family: SWGothi;
-    font-size: 5vw;
-    margin: 0;
-    padding: 0;
-    width: 15vw;
-    margin-bottom: 3vw;
-    text-align: center;
 }
 
-.yryr {
-    font-family: SWGothi;
-    font-size: 8vw;
-    margin: 0;
-}
-
-.yry {
-    height: 30vw;
-    width: 30vw;
-    box-shadow: rgb(102 118 154) 23.42px 23.42px 64px inset, rgb(170 196 255) -23.42px -23.42px 64px inset, rgb(102 118 154) 23.42px 23.42px 64px, rgb(170 196 255) -23.42px -23.42px 64px;
-    border-radius: 50%;
-    background: linear-gradient(145deg, rgb(118, 136, 178), rgb(154, 178, 232));    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 0;
-}
-
-.yr :hover {
-    opacity: 0.8;
-    cursor: pointer;
-}
-
-.yr {    
-    background-color: rgb(136, 157, 205);
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.canvas {
+  height: 99%;
+  width: 99%;
+  background-color: darkblue;
 }

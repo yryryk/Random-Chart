@@ -1,6 +1,5 @@
-# Random-Number
+# Random-Chart
 
-## gives a random number within the input number
+## gives a random chart
 
-### Сайт
-[Это тута]( https://yryryk.github.io/Random-Number/)
+[random chart]( https://yryryk.github.io/Random-Chart/)
